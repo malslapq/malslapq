@@ -12,5 +12,6 @@
 </div>
 
 <h3 align="center">🤔 Algorithm 🤔</h3>
-
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=malslapq)](https://solved.ac/malslapq/)
+</div>
