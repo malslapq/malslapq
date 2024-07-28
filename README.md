@@ -18,15 +18,3 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=malslapq)](https://solved.ac/malslapq/)
 
 </div>
-
-<div align="center">
-  
-  <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/malslapq"
-    width="500"
-    height="300"
-  />
-  </a>
-
-</div>
